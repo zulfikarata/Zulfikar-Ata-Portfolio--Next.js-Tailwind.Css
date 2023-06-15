@@ -59,8 +59,8 @@ export default function Home() {
               Software Developer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-x1 mx-auto md:text-x1">
-            Algoritma ve yazılım geliştirme teknikleri konusunda eğitim almış,
-            kendini geliştirmeyi ve deneyim kazanmayı seven bir yazılım geliştiricisiyim.
+            Trained in algorithm and software development,
+            I am a software developer who ate self-development and gaining experience.
             </p>
             <div className="text-3xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href="mailto:zulfikarata07@gmail.com">
@@ -85,30 +85,19 @@ export default function Home() {
         </section>
         <section>
           <div>
-            <h3 className="text-3x1 py-1 dark:text-white">Sunduğum hizmetler</h3>
-            <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Serbest tasarımcı olarak yolculuğumun başlangıcından beri ve
-              geliştirici, için uzaktan çalışma yaptım
-              <span className="text-teal-500">ajanslar</span>
-              için danışıldı <span className="text-teal-500">başlangıçlar</span>
-              ve dijital ürünler oluşturmak için yetenekli kişilerle işbirliği yaptım.
-            </p>
-            <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200 ">
-            Marka tasarımı da dahil olmak üzere geniş bir hizmet yelpazesinden 
-            programlama sunuyorum.
-            </p>
+            <h3 className="text-3xl py-1 dark:text-white">Services I Offer</h3>
           </div>
           <div className="lg:flex gap-10">
             <div className=" text-center shadow-lg p-10 rounded-x1 my-10 dark:bg-white flex-1">
             <Image src={design} width={100} height={100} alt=""/>
             <h3 className="text-lg font-medium pt-8 pb-2">
-              Harika Tasarımlar
+              Great Designs
             </h3>
             <p className="py-2">
-              Temel özellikleri takip ederek ihtiyaçlarınıza uygun şık tasarımlar yaratmak için
-              tasarım teorisi.
+             To create stylish designs suitable for your needs by following the basic features
+              design theory.
             </p>
-            <h4 className="py-4 text-teal-600">Kullandıgım Yazılım Dilleri</h4>
+            <h4 className="py-4 text-teal-600">Software Languages ​​I Use</h4>
             <p className="text-gray-800 py-1">Node.js</p>
             <p className="text-gray-800 py-1">React.js</p>
             <p className="text-gray-800 py-1">Next.js</p>
@@ -121,13 +110,13 @@ export default function Home() {
             <div className="text-center shadow-lg p-10 rounded-x1 my-10 dark:bg-white flex-1">
               <Image src={code} width={100} height={100} alt=""/>
               <h3 className="text-lg font-medium pt-8 pb-2">
-                Hayalinizdeki projeyi kodlayın
+                Code your dream project.
               </h3>
               <p className="py-2">
-                Bir sonraki harika web siteniz için bir fikriniz var mı? hadi bunu bir yapalım
-                gerçekleştirelim.
+               Have an idea for your next great website? Let's do this one
+                let's make it happen.
               </p>
-              <h4 className="py-4 text-teal-600">Kullandıgım Yazılım Dilleri</h4>
+              <h4 className="py-4 text-teal-600">Software Languages ​​I Use</h4>
             <p className="text-gray-800 py-1">Node.js</p>
             <p className="text-gray-800 py-1">React.js</p>
             <p className="text-gray-800 py-1">Next.js</p>
@@ -139,12 +128,13 @@ export default function Home() {
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <Image src={consulting} width={100} height={100} alt=""/>
-              <h3 className="text-lg font-medium pt-8 pb-2 ">Danışmanlık</h3>
+              <h3 className="text-lg font-medium pt-8 pb-2 ">Consultancy</h3>
               <p className="py-2">
-                Mevcut projeniz için geri bildirim almak ister misiniz? Yapabilirim
-                seviye atlamak için size ipuçları ve püf noktaları verebilirim.
+                Would you like to receive feedback for your current project? I can
+                I can give you tips and tricks to level up.
+
               </p>
-            <h4 className="py-4 text-teal-600">Kullandıgım Yazılım Dilleri</h4>
+            <h4 className="py-4 text-teal-600">Software Languages ​​I Use</h4>
             <p className="text-gray-800 py-1">Node.js</p>
             <p className="text-gray-800 py-1">React.js</p>
             <p className="text-gray-800 py-1">Next.js</p>
@@ -158,17 +148,14 @@ export default function Home() {
         </section>
         <section className="py-10">
           <div>
-            <h3 className="text-3xl py-1 dark:text-white">Portföy</h3>
+            <h3 className="text-3xl py-1 dark:text-white">Portfolio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Serbest tasarımcı olarak yolculuğumun başlangıcından beri ve
-              geliştirici için uzaktan çalışma yaptım. 
-               <span className="text-teal-500"> Ajanslar </span>
-              için danışıldı.<span className="text-teal-500">Başlangıçlar </span>
-              ve dijital ürünler oluşturmak için yetenekli kişilerle işbirliği yaptım.
+              Since the beginning of my journey as a freelance designer and
+              I did remote work for the developer.
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Marka tasarımı da dahil olmak üzere geniş bir hizmet yelpazesinden 
-              programlama sunuyorum.
+              From a wide range of services, including brand design
+              I offer programming.
             </p>
           </div>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
