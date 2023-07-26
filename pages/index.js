@@ -113,8 +113,8 @@ export default function Home() {
                 Code your dream project.
               </h3>
               <p className="py-2">
-               Have an idea for your next great website? Let's do this one
-                let's make it happen.
+               Have an idea for your next great website? Lets do this one
+                lets make it happen.
               </p>
               <h4 className="py-4 text-teal-600">Software Languages ​​I Use</h4>
             <p className="text-gray-800 py-1">Node.js</p>
